@@ -5,7 +5,7 @@
 
 
 ## Skills / Concepts Learned
--	Making Web Requests to a public 3rd-Party API Weather using Alamofire
+-	Making Web Requests to a public 3rd-Party API to retrieve Bitcoin asking price using Alamofire
 -	Parsing JSON using SwiftyJSON
 
 
